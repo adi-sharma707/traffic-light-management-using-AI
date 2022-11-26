@@ -1,0 +1,1 @@
+Download the YoloV3 weights file from here : https://drive.google.com/file/d/1RuNsdS9MgumwTFwVqI9rwSQJwk8qSAQS/view?usp=sharing
